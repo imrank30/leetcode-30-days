@@ -1,3 +1,8 @@
+/*
+🔹 What the code is about
+
+The code is building a tiny testing framework, similar to what developers use in tools like Jest or Mocha. 
+*/
 To be or Not to Be
 Write a function expect that helps developers test their code. It should take in any value val and return an object with the following two functions.
 
